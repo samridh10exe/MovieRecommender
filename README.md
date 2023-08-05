@@ -38,8 +38,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Thanks to [The Movie Database (TMDb)](https://www.themoviedb.org/) for providing the movie data API.
-- Credits to [OpenAI](https://openai.com/) for providing the ChatGPT language model that helped create this readme.
-
 ---
 **Note:** This README is a sample and should be modified to fit your specific project details.
 
