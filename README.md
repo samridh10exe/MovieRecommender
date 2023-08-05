@@ -39,5 +39,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Thanks to [The Movie Database (TMDb)](https://www.themoviedb.org/) for providing the movie data API.
 ---
-**Note:** This README is a sample and should be modified to fit your specific project details.
 
